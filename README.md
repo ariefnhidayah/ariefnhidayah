@@ -1,6 +1,5 @@
-[![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=blue-green&show_icons=true)](https://github.com/ariefnhidayah?tab=repositories) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefnhidayah&layout=compact&theme=blue-green)](https://github.com/ariefnhidayah?tab=repositories)
+[![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=blue-green&show_icons=true)](https://github.com/ariefnhidayah?tab=repositories)
 
 ### Hi there 👋, I'm Arief Nur Hidayah
 I'm a programmer since 2019. I can use some programming language like PHP, Javascript, GO, and Dart. And i can use some library like Codeigniter, Laravel, Express JS, Vue JS, Nuxt JS and Flutter. I also can use docker for containerizing my project.
