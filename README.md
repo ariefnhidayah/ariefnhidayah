@@ -1,20 +1,20 @@
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefnhidayah&layout=compact&theme=blue-green)](https://github.com/ariefnhidayah?tab=repositories) \
-[![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=blue-green&show_icons=true)](https://github.com/ariefnhidayah?tab=repositories) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefnhidayah&layout=compact&theme=onedark)](https://github.com/ariefnhidayah?tab=repositories) \
+[![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=onedark&show_icons=true)](https://github.com/ariefnhidayah?tab=repositories) -->
 
 ![](https://komarev.com/ghpvc/?username=ariefnhidayah&style=for-the-badge)
 
 <p>
-  <a href="https://github.com/ivalrivall/ivalrivall">
+  <a href="https://github.com/ariefnhidayah">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefnhidayah&theme=blue-green&layout=compact"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefnhidayah&theme=onedark&layout=compact"
          alt="ariefnhidayah most used languange"
          align="center"
          height="140"
      />
   </a>
-  <a href="https://github.com/ivalrivall/ivalrivall">
+  <a href="https://github.com/ariefnhidayah">
     <img
-         src="https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=blue-green&show_icons=true"
+         src="https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=onedark&show_icons=true"
          alt="Github Stats"
          align="center"
          height="140"
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ariefnhidayah&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=ariefnhidayah&theme=blue-green&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ariefnhidayah&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=ariefnhidayah&theme=onedark&date_format=j%20M%5B%20Y%5D)
 
 ## Hi there 👋, I'm Arief Nur Hidayah
 I'm a programmer since 2019. I can use some programming language like PHP, Javascript, GO, and Dart. And i can use some library like Codeigniter, Laravel, Express JS, Vue JS, Nuxt JS and Flutter. I also can use docker for containerizing my project.
