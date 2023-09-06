@@ -24,8 +24,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ariefnhidayah&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=ariefnhidayah&theme=onedark&date_format=j%20M%5B%20Y%5D)
 
-## Hi there 👋, I'm Arief Nur Hidayah
-I'm a programmer since 2019. I can use some programming language like PHP, Javascript, GO, and Dart. And i can use some library like Codeigniter, Laravel, Express JS, Vue JS, Nuxt JS and Flutter. I also can use docker for containerizing my project.
+## Hi there 👋, I'm Arief
+I'm a programmer since 2019. I can use some programming language like PHP, Javascript, and Dart. And i can use some library like Codeigniter, Laravel, Express JS, Vue JS, Nuxt JS and Flutter. I also can use docker for containerizing my project.
 ## Let's connect with my social media
 [![Linked In](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedIn)](https://www.linkedin.com/in/arief-nur-hidayah/) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram)](https://www.instagram.com/ariefnhidayah)
 
