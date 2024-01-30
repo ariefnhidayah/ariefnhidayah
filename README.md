@@ -1,5 +1,4 @@
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefnhidayah&layout=compact&theme=onedark)](https://github.com/ariefnhidayah?tab=repositories) \
-[![Arief's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefnhidayah&theme=onedark&show_icons=true)](https://github.com/ariefnhidayah?tab=repositories) -->
+![Header](./github-header-image.png)
 
 ![](https://komarev.com/ghpvc/?username=ariefnhidayah&style=for-the-badge)
 
