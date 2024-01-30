@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 ## Hi there 👋, I'm Arief
-I'm a programmer since 2019. I can use some programming language like PHP, Javascript, and Dart. And i can use some library like Codeigniter, Laravel, Express JS, Vue JS, Nuxt JS and Flutter. I also can use docker for containerizing my project.
+I’m Arief Nur Hidayah, Bachelor of Information Engineering from Mercu Buana University in 2023. I’m Fullstack Developer since 2019, I have experience with Vue JS, Nuxt JS, Express JS, CodeIgniter, MySQL, PostgreSQL, Flutter, Bootstrap, Vuetify, Git, and REST API. I have career interest as a software engineer and I’m ready to learn a new technology or stack programming to improve my skill.
 ## Let's connect with my social media
 [![Linked In](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedIn)](https://www.linkedin.com/in/arief-nur-hidayah/) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram)](https://www.instagram.com/ariefnhidayah)
 
