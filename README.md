@@ -5,6 +5,8 @@ I'm a programmer since 2019. I can use some programming language like PHP, Javas
 ## Let's connect with my social media
 [![Linked In](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedIn)](https://www.linkedin.com/in/arief-nur-hidayah/) [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=Instagram)](https://www.instagram.com/ariefnhidayah)
 
+---
+
 ![](https://komarev.com/ghpvc/?username=ariefnhidayah&style=for-the-badge)
 
 <p>
